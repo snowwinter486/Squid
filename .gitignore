@@ -44,7 +44,7 @@ class  MancalaGame  {
 	}
 
     private  void  displayBoard()  {
-        String  mancalaLineFiller  =  "";    // Used to properly 
+        String  mancalaLineFiller  =  "";    // Used to properly
                                              //      space the 
                                              //      mancala line
         System.out.println("-----------------------");
